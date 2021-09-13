@@ -1,5 +1,3 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ## Counter App
 
 En este proyecto, se utiliza las siguientes características de React Js:
@@ -21,5 +19,8 @@ En este proyecto, se utiliza las siguientes características de React Js:
 -useState.
 
 
-![](docs/tasks.png)
+# Screenshot
+
+![](Docs/CounterApp.png)
+
 
