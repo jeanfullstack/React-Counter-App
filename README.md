@@ -2,7 +2,7 @@
 
 En este proyecto, se utiliza las siguientes características de React Js:
 
--Exposiciones sobre los componentes.
+- Exposiciones sobre los componentes.
 
 - Creación de componentes (Functional Components).
 
