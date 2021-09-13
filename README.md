@@ -4,19 +4,19 @@ En este proyecto, se utiliza las siguientes características de React Js:
 
 -Exposiciones sobre los componentes.
 
--Creación de componentes (Functional Components).
+- Creación de componentes (Functional Components).
 
--Propiedades - Props.
+- Propiedades - Props.
 
--Impresiones en el HTML.
+- Impresiones en el HTML.
 
--PropTypes.
+- PropTypes.
 
--DefaultProps.
+- DefaultProps.
 
--Introducción general a los Hooks.
+- Introducción general a los Hooks.
 
--useState.
+- useState.
 
 
 # Screenshot
